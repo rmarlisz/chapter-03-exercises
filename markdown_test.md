@@ -1,7 +1,9 @@
 # Try learning markdown
 
 _Italics_ is first
+
 Let's try **bold text** second
+
 Here is a sample code block:
 `Weird code font`
 
@@ -17,7 +19,7 @@ All the same font
 >for a four-line or more quote,
 you are supposed to use block quotes.
 I'm not sure how to stop the block quote.
-Hopefully it stops after this line>
+Hopefully it stops after this line
 
 More text that should be normal.
 -Bullet 1
